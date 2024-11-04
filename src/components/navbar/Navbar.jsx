@@ -17,6 +17,8 @@ const Navbar = () => {
               <p onClick={()=>{
                   setLogin(false)
                   }}>Logout</p>
+                  <p>id::-bisworanjan</p>
+                  <p>pas::-webdeveloper</p>
             </div>
         </div>
       </div>
